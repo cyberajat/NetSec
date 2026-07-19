@@ -1,142 +1,135 @@
-# NetSec
 # 🌐 Network Security
 
-> A comprehensive collection of Network Security learning resources, including syllabus, hands-on labs, study notes, practical exercises, cheat sheets, tools, and reference materials. Designed for students, cybersecurity enthusiasts, and professionals preparing for certifications and building strong networking security fundamentals.
+> A curated collection of Network Security learning materials, hands-on labs, notes, cheat sheets, tools, and resources for students, cybersecurity enthusiasts, and professionals.
 
 ---
 
 ## 📖 About
 
-This repository is created to help students, cybersecurity enthusiasts, and professionals learn **Network Security** from basics to advanced concepts.
+This repository is designed to provide a structured roadmap for learning **Network Security** through theory, practical labs, and real-world scenarios.
 
-It contains:
-
-- 📚 Study Notes
-- 🧪 Practical Labs
-- 📝 Cheat Sheets
-- 🛠️ Security Tools
-- 📄 Learning Resources
-- 🎯 Certification Preparation
-- 💡 Hands-on Exercises
+The content is continuously updated with notes, lab exercises, tools, and learning resources to help build practical networking and cybersecurity skills.
 
 ---
 
-# 📂 Repository Structure
+## 🎯 What You'll Learn
+
+- Networking Fundamentals
+- Network Protocols
+- Network Security Concepts
+- Cryptography & PKI
+- Firewalls & VPNs
+- IDS / IPS
+- Secure Network Architecture
+- Ethical Hacking Fundamentals
+- Vulnerability Assessment
+- Network Monitoring
+- SOC & Threat Intelligence
+- Cloud Security
+- Wireless Security
+- Incident Response
+- Security Best Practices
+
+---
+
+## 📂 Repository Structure
 
 ```
 Network-Security/
 │
 ├── README.md
 ├── LICENSE
-├── CONTRIBUTING.md
+├── Syllabus/
+│   └── 6-Month-Network-Security.md
 │
-├── 01-Network-Fundamentals/
-├── 02-OSI-Model/
-├── 03-TCP-IP/
-├── 04-Subnetting/
-├── 05-Routing-Switching/
-├── 06-Network-Protocols/
-├── 07-Network-Devices/
-├── 08-Wireless-Security/
-├── 09-Firewalls/
-├── 10-VPN/
-├── 11-IDS-IPS/
-├── 12-Network-Attacks/
-├── 13-Network-Defense/
-├── 14-Wireshark/
-├── 15-Nmap/
-├── 16-Snort-Suricata/
-├── 17-Labs/
-├── 18-CheatSheets/
-├── 19-Resources/
-└── Images/
+├── Notes/
+├── Labs/
+├── Tools/
+├── CheatSheets/
+├── Resources/
+├── Projects/
+├── Images/
+└── References/
 ```
 
 ---
 
-# 📚 Topics Covered
+## 📚 Repository Contents
 
-- Network Fundamentals
-- OSI Model
-- TCP/IP Model
-- IPv4 & IPv6
-- Subnetting
-- Routing & Switching
-- DNS
-- DHCP
-- NAT
-- VLAN
-- Firewalls
-- VPN
-- IDS & IPS
-- Wireless Security
-- Network Monitoring
-- Packet Analysis
-- Network Hardening
-- Network Attacks
-- Defense Techniques
+- 📖 Study Notes
+- 🧪 Hands-on Labs
+- 📝 Cheat Sheets
+- 🛠️ Tool Guides
+- 📚 Books & References
+- 🎥 Learning Resources
+- 💻 Practice Projects
 
 ---
 
-# 🧪 Practical Labs
+## 🧪 Practical Labs
 
-- Wireshark Packet Analysis
-- Nmap Scanning
-- TCP/UDP Analysis
-- DNS Enumeration
-- Firewall Configuration
-- VPN Setup
-- VLAN Configuration
-- Snort IDS
-- Network Hardening
-- Attack Simulation
-
----
-
-# 🛠️ Tools
+This repository includes practical exercises using tools such as:
 
 - Wireshark
+- Cisco Packet Tracer
 - Nmap
-- Tcpdump
-- Netcat
+- pfSense
 - Snort
 - Suricata
+- Burp Suite
+- Metasploit
+- Splunk
 - OpenVAS
 - Nessus
-- Cisco Packet Tracer
-- GNS3
+- AWS
 
 ---
 
-# 📖 Learning Resources
+## 🛠️ Learning Approach
 
-## Books
+Each topic generally contains:
 
-- Computer Networking – Kurose & Ross
-- TCP/IP Illustrated
-- Network Security Essentials
-
-## Websites
-
-- Cisco Networking Academy
-- OWASP
-- NIST
-- Microsoft Learn
+- Introduction
+- Theory
+- Commands
+- Examples
+- Practical Labs
+- Screenshots
+- References
+- Additional Resources
 
 ---
 
-# 🎯 Certifications
+## 📌 Learning Roadmap
 
-- CCNA
-- Security+
-- Network+
-- PNPT
-- CEH
-- CISSP
+```
+Networking
+      │
+      ▼
+Network Fundamentals
+      │
+      ▼
+System Administration
+      │
+      ▼
+Network Security
+      │
+      ▼
+Firewalls • VPN • IDS/IPS
+      │
+      ▼
+Ethical Hacking
+      │
+      ▼
+SOC & Threat Intelligence
+      │
+      ▼
+Cloud & Wireless Security
+```
 
 ---
 
-# 🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
@@ -145,18 +138,17 @@ Feel free to:
 - Improve notes
 - Add labs
 - Fix mistakes
-- Suggest resources
-- Open Issues
+- Suggest learning resources
 - Submit Pull Requests
 
 ---
 
-# ⭐ Support
+## ⭐ Support
 
-If this repository helps you, consider giving it a ⭐ Star.
+If you find this repository helpful, consider giving it a ⭐.
 
 ---
 
-# 📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
